@@ -1,0 +1,22 @@
+{
+  "name": "inw2mia",
+  "version": "1.0.0",
+  "description": "Repositório dos programas feitos em aula da turma 2MIA da FIAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piettrabs/INW2MIA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piettrabs/INW2MIA/issues"
+  },
+  "homepage": "https://github.com/piettrabs/INW2MIA#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
